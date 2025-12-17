@@ -1,0 +1,4 @@
+{
+  "frontend/src/App.tsx": "Main application component displaying \"Chicken Babana\" centered on screen with a minimal footer containing attribution.",
+  "frontend/src/index.css": "Global styles with OKLCH color system configured for clean white background and black text in light mode, with dark mode support."
+}
